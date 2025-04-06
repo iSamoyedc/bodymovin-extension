@@ -1,6 +1,6 @@
-# Bodymovin for Telegram Stickers — After Effects extension for exporting Telegram animated stickers 
+# Bodymovin for Telegram emoji — After Effects extension for exporting Telegram animated emoji
 
-Bodymovin-TG is designed to help you export your animations in the **.TGS** format supported by the Telegram Animated Stickers platform.
+Bodymovin-TG is designed to help you export your animations in the **.TGS** format supported by the Telegram Animated emoji platform.
 
 ### Installing
  
@@ -15,10 +15,10 @@ Bodymovin-TG is designed to help you export your animations in the **.TGS** form
 
 For more information on creating and exporting Lottie animations, refer to [this guide][ae_guide].
 
-For more information on Telegram Animated Stickers, see [this page][animated_stickers].
+For more information on Telegram Animated Stickers, see [this page][animated_emoji].
 
 [//]: # (LINKS)
 [zxp_installer]: https://zxpinstaller.com
 [bodymovin_tg]: https://github.com/TelegramMessenger/bodymovin-extension/releases
 [ae_guide]: http://airbnb.io/lottie/#/after-effects?id=creating-lottie-animations
-[animated_stickers]: https://core.telegram.org/animated_stickers
+[animated_emoji]: https://core.telegram.org/animated_emoji
